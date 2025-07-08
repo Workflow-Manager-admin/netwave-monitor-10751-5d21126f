@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/netwave-monitor-10751-5d21126f/device_search_portal_frontend"
+}
